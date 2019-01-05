@@ -12,7 +12,6 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Natural Lamguage Processing",
-    "Conventional Machine Learning",
     "Deep Learning"
   ]
 
