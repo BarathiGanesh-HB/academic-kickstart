@@ -11,30 +11,33 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Natural Lamguage Processing",
+    "Conventional Machine Learning",
+    "Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  institution = "Amrita Vishwa Vidyapeetham"
+  year = 2015 - Current
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.Tech in Computational Engineering and Networking"
+  institution = "Amrita Vishwa Vidyapeetham"
+  year = 2013 - 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.E in Electronic and Communication Engineering"
+  institution = "Amrita Vishwa Vidyapeetham"
+  year = 2009-2013
  
 +++
 
-# Biography
+# Who Am I
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Current CTO at Arnekt, where our mission is to power the world's smarter business solutions by providing state-of-the-art AI based Cognitive Intelligence as a Service (CIaaS).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Technically, Cognitive Science Practitioner and Research Scholar (Ph.D.) with 5+ years of good theoretical – practical experience in Linear algebra, Optimization, Probabilistic Graphical Models, Conventional Machine Learning, Deep Learning and Dimensionality Reduction Methods.
+
+Experiencing first-hand by performing AI powered digital transformation of business solutions using the technologies like Natural Language Processing, Bio-Informatics, Computer Vision, Transfer Learning, Reinforcement Learning, Imitation Learning, Cyber Security, Text Mining, Data Science, Speech Processing in Distributed and Parallel frameworks. 
